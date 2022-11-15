@@ -1,5 +1,5 @@
 """
-Week 4 practice project template for Python Programming Essentials
+Week 4 project for Python Programming Essentials
 Rock-paper-scissors-lizard-Spock
 """
 
